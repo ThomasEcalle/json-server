@@ -3,28 +3,28 @@
     {
       "id": 1,
       "firstName": "Bob",
-      "lastName": "Dylan",
+      "lastName": "Dylan"
     },
     {
       "id": 2,
       "firstName": "Michael",
-      "lastName": "Jordan",
+      "lastName": "Jordan"
     },
     {
       "id": 3,
       "firstName": "Michael",
-      "lastName": "Jordan",
+      "lastName": "Jordan"
     },
 
     {
       "id": 4,
       "firstName": "Magic",
-      "lastName": "Johnson",
+      "lastName": "Johnson"
     },
     {
       "id": 5,
       "firstName": "Bob",
-      "lastName": "Burger",
+      "lastName": "Burger"
     }
   ],
 }
