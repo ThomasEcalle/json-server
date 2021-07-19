@@ -1,11 +1,30 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "firstName": "Bob",
+      "lastName": "Dylan",
+    },
+    {
+      "id": 2,
+      "firstName": "Michael",
+      "lastName": "Jordan",
+    },
+    {
+      "id": 3,
+      "firstName": "Michael",
+      "lastName": "Jordan",
+    },
+
+    {
+      "id": 4,
+      "firstName": "Magic",
+      "lastName": "Johnson",
+    },
+    {
+      "id": 5,
+      "firstName": "Bob",
+      "lastName": "Burger",
+    },
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
